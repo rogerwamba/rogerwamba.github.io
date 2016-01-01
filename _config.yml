@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://rogerwamba.github.io
-title: A Software Engineer investigates Genomic Data Science
+title: Roger Wamba on Genomic Data Science
 tagline: A journal of the Journey into Data Science land.
 description: This blog is to chronicle every step taken by most Software Engineers exploring Data Science and Machine Learning. I will be recording my journey into Data Science research with emphasis in Bioinformatic Algorithms.
 paginate: 5
